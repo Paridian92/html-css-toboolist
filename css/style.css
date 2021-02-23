@@ -1,0 +1,150 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+  }
+
+body{
+  background-color: #f6f8f9;
+
+}
+header{
+  background-color:white;
+}
+
+.logo h1,.logo img{
+  display: inline-block;
+  vertical-align:middle;
+  margin-top: 10px;
+}
+
+.logo{
+  margin-left: 15px;
+}
+
+.taskbar{
+  background-color:white;
+  margin-top: 35px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 5px;
+  border-radius: 2% 2% 0 0; 
+}
+
+button{
+  margin: 15px -75px 10px 75px ;
+  border-radius: 7%;
+  font-size: 12px;
+  border:1px solid;
+}
+
+#tasks{
+  color: white;
+  background-color: #47adf1;
+}
+
+#section{
+  color: #d0d5d9;
+  background-color: white;
+}
+
+.taskbox{;
+  margin-top: 5px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-bottom: 75px;
+  background-color: white;
+  padding-left:75px;
+}
+
+.done{
+border: 1px solid green;
+color: green;
+border-radius: 50%;
+width: 20px;
+height: 20px;
+text-align: center;
+font-size: 12px;
+display: inline-block;
+}
+
+.editorial{
+  color: white;
+  background-color: #45abea;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.q1{
+  color: white;
+  background-color: #9c72e4;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.nodone{
+  border: 1px solid red;
+  color: red;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-size: 12px;
+  display: inline-block;
+}
+
+.recruiting{
+  color: white;
+  background-color: #64c0a9;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.mobile{
+  color: white;
+  background-color: #f29e33;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.website{
+  color: white;
+  background-color: #d863a1;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+
+.sales{
+  color: white;
+  background-color: #b0c926;
+  width: 70px;
+  height: 20px;
+  border-radius: 20%;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+
+}
+.text{
+  font-size: 100%;
+  line-height: 2.3;
+}
